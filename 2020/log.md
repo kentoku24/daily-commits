@@ -1,6 +1,7 @@
 # 2020/12/16
 
 [JavaプログラマのためのKotlin入門](https://qiita.com/koher/items/bcc58c01c6ff2ece658f)　よんだ
+
 [JavaプログラマがKotlinでつまづきがちなところ](https://qiita.com/koher/items/d9411a00986f14683a3f) よんだ　
 　　inline と Non-local return　の前まで。つづきは後でよむ
 
